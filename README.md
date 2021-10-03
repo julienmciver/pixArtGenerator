@@ -15,7 +15,7 @@ You might notice that the generated image is pixelated and the colors are slight
 
 So if this image were to be created from those beads, this is what it would look like.
 
-After saving the image as a mosaicProj, and specifying the medium for the mosaic (in this case, beads), the relevant files will be stored in the mobile app component of the pixel art generator (link to the kivy app here: )
+After saving the image as a mosaicProj, and specifying the medium for the mosaic (in this case, beads), the relevant files will be stored in the mobile app component of the pixel art generator (link to the kivy app here:https://github.com/julienmciver/mosaeek)
 
 A desktop demonstration of how this app would work is here:
 
