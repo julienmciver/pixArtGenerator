@@ -11,7 +11,7 @@ Click "Upload Image" to open a file selector. The image I am uploading and the g
 
 ![TREE(1)](https://user-images.githubusercontent.com/34250945/135765044-0dde937a-603b-44e2-9b2d-9645eb6f3363.jpg) ![Screenshot from 2021-10-03 17-34-58](https://user-images.githubusercontent.com/34250945/135765087-b48afb96-ad9f-42a1-8b70-4c21dffc4a6a.png)
 
-You might notice that the generated image is pixelated and the colors are slightly different. This is because the image was generated using only colors extracted from pictures of beads I bought from a bead shop. To extract colors, save the images of the materials you want to make a mosaic out of (in this case, beads), and run "palletteFinder.py". 
+You might notice that the generated image is pixelated and the colors are slightly different. This is because the image was generated using only colors extracted from pictures of beads I bought from a bead shop. To extract colors, save the images of the materials you want to make a mosaic out of (in this case, beads) into a folder called "Pallette Images" in the same directory as "pixmain.py", and run "palletteFinder.py". 
 
 So if this image were to be created from those beads, this is what it would look like.
 
