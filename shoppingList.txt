@@ -1,0 +1,13 @@
+1: oilslick: 661
+2: opaque lt blue: 186
+3: crystal clear: 721
+4: foil black: 578
+5: opaque black: 880
+6: opaque turq: 489
+7: foil green: 1296
+8: luster clear: 5806
+9: crystal blue(1): 862
+10: foil purple: 1171
+11: opaque white: 708
+12: foi lt blue: 1042
+Total: 14400
